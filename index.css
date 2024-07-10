@@ -1,0 +1,112 @@
+*{
+    background-color: rgb(108, 198, 234);
+}
+.header{
+    height: 80px;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 40px;
+    background-color: white;
+    position: fixed;
+}
+.hme{
+    margin-left: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.hme:hover{
+    text-decoration: underline;
+    text-decoration-color: orange; 
+    transform: translateY(2px);
+}
+.loc{
+    margin-left: 550px;
+    margin-right: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.loc:hover{
+    text-decoration: underline;
+    text-decoration-color: orange; 
+    transform: translateY(2px);
+}
+.abt{
+    margin-left: 20px;
+    margin-right: 40px;
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.abt:hover{
+    text-decoration: underline;
+    text-decoration-color: orange; 
+    transform: translateY(2px);
+}
+.fbk{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.fbk:hover{
+    text-decoration: underline;
+    text-decoration-color: orange;    
+    transform: translateY(2px);
+}
+.signin{
+    margin-left: 20px;
+    margin-right: 30px;
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.signin:hover{
+    text-decoration: underline;
+    text-decoration-color: orange;    
+    font-size: larger;
+    transform: translateY(2px);
+}
+.cont{
+    margin-top: 90px;
+    left: 0;
+    right: 0;
+}
+.location-item{
+    top: 30px;
+}
+.topic{
+    text-align: center;
+    font-size: 4rem;
+}
+.feed{
+
+}
+.abtcheck{
+    margin-bottom: 30px;
+}
+.chk2{
+    text-align: center;
+    font-size: 4rem;
+}
+.main{
+    text-align: center;
+    font-size: 4rem;
+}
+.feedback{
+    margin-left: 10px;
+    margin-right: 10px;
+}
